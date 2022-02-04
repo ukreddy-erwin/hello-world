@@ -15,7 +15,7 @@ pipeline {
 pwd'''
         }
 
-        echo 'build stage done'
+        echo 'build stage finished/ done'
       }
     }
 
